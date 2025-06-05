@@ -1,4 +1,6 @@
 ---
+aliases:
+- Welcome
 tags:
   - object/info
 created: 2025-05-31
