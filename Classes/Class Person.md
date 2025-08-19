@@ -3,6 +3,7 @@ tags:
 - class
 created: 2025-05-28
 type:
+- "[[Class]]"
 context:
 ---
 # Content

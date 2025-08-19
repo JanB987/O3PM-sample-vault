@@ -19,8 +19,8 @@ You can read more about the method on [nosy.science](https://nosy.science/2025/0
 ## 🚦 How to Use This Vault
 
 Start with:
-1. [[Welcome]] – you’re already here!
-2. [[O3PM Basics]] – for a short overview of the concept
+1. [[README]] – you’re already here!
+2. [[§ O3PM Basics]] – for a short overview of the concept
 Then browse at your own leasure.
 
 ## 💻 About O3PM
@@ -31,9 +31,9 @@ O3PM is a modular, object-based approach to managing projects. Instead of treati
 This vault includes:
 - ✅ **Object notes** with metadata and backlinks  
 - 🧩 **[[Templates]]** for creating consistent notes 
-- 🧠 **[[Classes|Object class definitions]]** for clarity  
+- 🧠 **[[Class|Object class definitions]]** for clarity  
 - 📊 **[[O3PM Use Cases|Use cases]]** powered by Dataview  
-- 💻[[O3PM Basics]]
+- 💻[[§ O3PM Basics]]
 - 📁 A **[[PRJT - Sample Project|sample project]]** to show it in action  
 
 Every part is lightweight and flexible. You can adapt the system to your own workflows or scale it into something massive.

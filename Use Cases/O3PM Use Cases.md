@@ -26,6 +26,18 @@ As a project manager, keeping track of timelines is essential. With Obsidian and
 ### [[Use Case - Automatic Gantt Chart]]
 Updating Gantt charts manually is time-consuming and error-prone — especially when stakeholders demand different versions. This article shows how to automate Gantt chart generation in Obsidian using DataviewJS and Mermaid. With dynamic metadata-driven timelines, project planning becomes easier, faster, and far more maintainable.
 
+## Meetings
+
+### [[Use Case - Meeting Preparation]]
+Meetings are everywhere—and they cost more than we think.
+In this article, we dive into how Object-Oriented Project Management (O3PM) in Obsidian can help you run better meetings with less effort. From smart metadata and linked agenda items to participant check-ins using the Object Responsibility Module (ORM), this guide shows how a simple setup can turn meetings into efficient, traceable checkpoints—instead of time sinks.
+
+## Budgeting
+### [[Use Case - Budgeting]]
+
+
+
+
 ## Upcoming Use Cases
 - Budgeting
 - Team & Resource Management
