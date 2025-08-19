@@ -15,7 +15,7 @@ To learn more about the module and its use you can check out the Article on [Nos
 
 ## Budgeting via Bases
 
-Article: 
+Article: https://nosy.science/2025/08/19/budget-with-bases/
 
 ### Table
 ```base
