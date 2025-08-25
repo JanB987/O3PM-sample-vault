@@ -11,6 +11,7 @@ status: "[[active]]"
 ---
 # Info 
 Account: [[Account - Sample Project]]
+budget: [[Use Case - Budgeting]]
 # Content
 ## Description
 This is a sample project.

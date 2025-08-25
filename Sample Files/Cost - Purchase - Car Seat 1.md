@@ -16,7 +16,7 @@ net: -10000
 source: "[[Offer - Purchase Car Seat 1]]"
 category: "[[External Costs]]"
 section: "[[Deliverable Car X1]]"
-status: "[[paid]]"
+status: "[[planned]]"
 ---
 - **short**:: Cost for [[Car Seat 1]] to realize [[Deliverable Car X1]]
 # Content

@@ -12,6 +12,7 @@ context:
   - "[[Deliverable Car X1]]"
 responsible: "[[@ Person 1]]"
 cost_info: "[[Cost - Installation - Car Seat 1]]"
+short: Installation of the new car seat into the chassis of Car X1.
 status: "[[ToDo]]"
 ---
 

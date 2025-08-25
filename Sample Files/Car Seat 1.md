@@ -10,6 +10,7 @@ context:
   - "[[Installed Car Seat 1]]"
   - "[[Deliverable Car X1]]"
 responsible:
+short: Car seat for the experimental car X1
 cost_info: "[[Cost - Purchase - Car Seat 1]]"
 status: "[[ToDo]]"
 ---
