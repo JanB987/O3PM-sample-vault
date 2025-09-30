@@ -16,13 +16,6 @@ This vault was created for curious minds who love structure *and* creativity. It
 You can read more about the method on [nosy.science](https://nosy.science/2025/05/10/object-oriented-management-in-obsidian-o3pm/).
 
 
-## 🚦 How to Use This Vault
-
-Start with:
-1. [[README]] – you’re already here!
-2. [[§ O3PM Basics]] – for a short overview of the concept
-Then browse at your own leasure.
-
 ## 💻 About O3PM
 O3PM is a modular, object-based approach to managing projects. Instead of treating notes like pages in a notebook, we treat them like **objects** in a system: People, Tools, Locations, Deliverables, and more. These objects are linked, queried, and managed in context—so your entire vault becomes a dynamic, living system.
 
@@ -31,9 +24,8 @@ O3PM is a modular, object-based approach to managing projects. Instead of treati
 This vault includes:
 - ✅ **Object notes** with metadata and backlinks  
 - 🧩 **[[Templates]]** for creating consistent notes 
-- 🧠 **[[Class|Object class definitions]]** for clarity  
-- 📊 **[[O3PM Use Cases|Use cases]]** powered by Dataview  
-- 💻[[§ O3PM Basics]]
+- 🧠 **[[Class Class|Object class definitions]]** for clarity  
+- 📊 **[[O3PM Use Cases|Use cases]]** 
 - 📁 A **[[PRJT - Sample Project|sample project]]** to show it in action  
 
 Every part is lightweight and flexible. You can adapt the system to your own workflows or scale it into something massive.

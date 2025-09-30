@@ -7,10 +7,11 @@ type:
   - "[[Class Car Part]]"
 context:
   - "[[Installed Car Seat 1]]"
-  - "[[Deliverable Car X1]]"
+  - "[[Deliverable - Car X1]]"
   - "[[PRJT - Sample Project]]"
 responsible: "[[@ Person 2]]"
 status: "[[DONE]]"
+icon: 🔩
 ---
 
 package:: [[Screw Box 1]]

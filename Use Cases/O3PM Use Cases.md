@@ -36,7 +36,8 @@ In this article, we dive into how Object-Oriented Project Management (O3PM) in O
 ### [[Use Case - Budgeting]]
 
 
-
+## Interfaces
+- [[Use Case - Embedding and cleaning for Longform alternative]]
 
 ## Upcoming Use Cases
 - Budgeting

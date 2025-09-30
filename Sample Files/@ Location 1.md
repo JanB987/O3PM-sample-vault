@@ -4,6 +4,7 @@ aliases:
 tags:
   - object/location
 created: 2025-05-30
+icon: 🏭
 ---
 ## Object Responsibilities
 ```dataview

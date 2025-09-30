@@ -13,6 +13,7 @@ short: Screw shipment 2 to assemble parts for experimental Car X1. Originally, b
 cost_info:
   - "[[Cost - Purchase - Screw Box 2]]"
 status: "[[DONE]]"
+icon: 📦
 ---
 ## Notes
 Was ordered and covered for [[PRJT - Sample Project 2]]. 

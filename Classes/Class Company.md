@@ -1,9 +1,9 @@
 ---
-aliases: 
+aliases:
 tags:
   - class
 created: 2025-05-31
-type: 
-- "[[Class]]"
+type:
+  - "[[Class Class]]"
 context:
 ---

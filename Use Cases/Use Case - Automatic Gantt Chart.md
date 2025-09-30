@@ -5,7 +5,7 @@ tags:
 created: 2025-05-30
 type:
   - "[[Class Gantt Chart]]"
-  - "[[Use Case]]"
+  - "[[Class Use Case]]"
 version:
 context:
   - "[[PRJT - Sample Project]]"

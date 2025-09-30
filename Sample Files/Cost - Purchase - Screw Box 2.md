@@ -9,15 +9,15 @@ context:
   - "[[PRJT - Sample Project 2]]"
   - "[[PRJT - Sample Project]]"
   - "[[Installed Car Seat 1]]"
-  - "[[Deliverable Car X1]]"
+  - "[[Deliverable - Car X1]]"
   - "[[Class Budget]]"
 responsible: "[[@ Person 3]]"
 account: "[[Account - Sample Project 2]]"
 net: -5
-source: "[[Purchase - Screw Shipment 2]]"
-section: 
-- "[[PRJT - Sample Project 2]]"
-- "[[Deliverable Car X1]]"
+source: "[[Invoice - Purchase - Screw Shipment 2]]"
+section:
+  - "[[PRJT - Sample Project 2]]"
+  - "[[Deliverable - Car X1]]"
 status: "[[paid]]"
 ---
 ## Notes

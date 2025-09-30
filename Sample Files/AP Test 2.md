@@ -21,8 +21,14 @@ timeline_end_condition: start
 timeline_type: current
 status: "[[waiting]]"
 ---
-
+# Tasks
 - [x] Plan
 - [x] [[@ Person 1]] has to do task at [[@ Location 1]]  [completion:: 2025-05-27]
 - [x] Inform [[@ Person 2]] about object progress.  [completion:: 2025-05-27]
 - [<] Receive response from [[@ Person 2]]
+
+# Content
+
+## Relationships
+- blocked:: [[AP Test 1]]
+

@@ -8,13 +8,13 @@ type:
 context:
   - "[[Class Budget]]"
   - "[[PRJT - Sample Project]]"
-  - "[[Deliverable Car X1]]"
+  - "[[Deliverable - Car X1]]"
   - "[[Installed Car Seat 1]]"
 responsible:
 net: -10000
 total: -11900
 vat: 19
-account: 
+account:
 transfer_date: 2025
 status: "[[DONE]]"
 ---

@@ -1,9 +1,9 @@
 ---
 tags:
-- class
+  - class
 created: 2025-05-28
 type:
-- "[[Class]]"
+  - "[[Class Class]]"
 context:
 ---
 # Content

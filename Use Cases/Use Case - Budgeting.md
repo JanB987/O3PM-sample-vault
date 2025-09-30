@@ -6,8 +6,9 @@ created: 2025-06-06
 context:
   - "[[PRJT - Sample Project]]"
 type:
-  - "[[Use Case]]"
+  - "[[Class Use Case]]"
 status: "[[active]]"
+icon: 📊
 ---
 # Info
 # Content

@@ -8,7 +8,7 @@ type:
 context:
   - "[[Class Budget]]"
   - "[[PRJT - Sample Project]]"
-  - "[[Deliverable Car X1]]"
+  - "[[Deliverable - Car X1]]"
   - "[[Installed Car Seat 1]]"
 responsible: "[[@ Person 1]]"
 net: -15

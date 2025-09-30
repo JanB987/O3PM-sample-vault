@@ -2,9 +2,8 @@
 aliases:
 tags:
   - class
-created: 2025-08-16
+created: 2025-08-27
 type:
   - "[[Class Class]]"
 context:
 ---
-
